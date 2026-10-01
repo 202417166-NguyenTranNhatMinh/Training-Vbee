@@ -1,8 +1,8 @@
 function App() {
   return (
     <div>
-      <h1>Hello World</h1>
-      <p>My name is Nhat Minh</p>
+      <h1>Hello Everyone</h1>
+      <p>My name is NTNM</p>
     </div>
   );
 }
